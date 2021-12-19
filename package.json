@@ -1,0 +1,23 @@
+{
+  "name": "project-name",
+  "bin": {
+    "JoJoCalculate": "build/main.js"
+  },
+  "assets": [
+    "./*.xlsx"
+  ],
+  "dependencies": {
+    
+  },
+  "version": "1.0.0",
+  "main": "build/main.js",
+  "devDependencies": {
+    "@types/node": "^14.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "author-pkg",
+  "license": "ISC",
+  "description": "description for project-name"
+}

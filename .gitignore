@@ -1,0 +1,5 @@
+*.exe
+*-macos-arm64
+
+build/
+.vscode/
